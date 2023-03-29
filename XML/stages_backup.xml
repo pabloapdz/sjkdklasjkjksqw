@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stages>
+        <config enabled="1"/>
+	<!-- 1 ATE 200 -->
+
+	<stage minlevel="1" maxlevel="11" multiplier="46"/>
+	<stage minlevel="12" maxlevel="22" multiplier="45"/>
+	<stage minlevel="23" maxlevel="33" multiplier="45"/>
+	<stage minlevel="34" maxlevel="44" multiplier="44"/>
+	<stage minlevel="45" maxlevel="55" multiplier="44"/>
+	<stage minlevel="56" maxlevel="66" multiplier="43"/>
+	<stage minlevel="67" maxlevel="77" multiplier="43"/>
+	<stage minlevel="78" maxlevel="88" multiplier="42"/>
+	<stage minlevel="89" maxlevel="99" multiplier="42"/>
+	<stage minlevel="100" maxlevel="110" multiplier="22"/>
+	<stage minlevel="111" maxlevel="121" multiplier="21"/>
+	<stage minlevel="122" maxlevel="132" multiplier="21"/>
+	<stage minlevel="133" maxlevel="143" multiplier="20"/>
+	<stage minlevel="144" maxlevel="154" multiplier="20"/>
+	<stage minlevel="155" maxlevel="165" multiplier="20"/>
+	<stage minlevel="166" maxlevel="176" multiplier="19"/>
+	<stage minlevel="177" maxlevel="187" multiplier="19"/>
+	<stage minlevel="188" maxlevel="198" multiplier="18"/>
+	<stage minlevel="199" maxlevel="209" multiplier="18"/>
+
+	<!-- 200 ATE 300 -->
+
+	<stage minlevel="210" maxlevel="220" multiplier="17"/>
+	<stage minlevel="221" maxlevel="231" multiplier="16"/>
+	<stage minlevel="232" maxlevel="242" multiplier="16"/>
+	<stage minlevel="243" maxlevel="253" multiplier="16"/>
+	<stage minlevel="254" maxlevel="264" multiplier="15"/>
+	<stage minlevel="265" maxlevel="275" multiplier="15"/>
+	<stage minlevel="276" maxlevel="286" multiplier="14"/>
+	<stage minlevel="287" maxlevel="297" multiplier="14"/>
+	<stage minlevel="298" maxlevel="308" multiplier="14"/>
+
+	<!-- 300 ATE 500 -->
+
+	<stage minlevel="309" maxlevel="319" multiplier="13"/>
+	<stage minlevel="320" maxlevel="330" multiplier="13"/>
+	<stage minlevel="331" maxlevel="341" multiplier="13"/>
+	<stage minlevel="342" maxlevel="352" multiplier="12"/>
+	<stage minlevel="353" maxlevel="363" multiplier="12"/>
+	<stage minlevel="364" maxlevel="374" multiplier="12"/>
+	<stage minlevel="375" maxlevel="385" multiplier="12"/>
+	<stage minlevel="386" maxlevel="396" multiplier="12"/>
+	<stage minlevel="397" maxlevel="407" multiplier="12"/>
+	<stage minlevel="408" maxlevel="418" multiplier="12"/>
+	<stage minlevel="419" maxlevel="429" multiplier="12"/>
+	<stage minlevel="430" maxlevel="440" multiplier="12"/>
+	<stage minlevel="441" maxlevel="451" multiplier="12"/>
+	<stage minlevel="452" maxlevel="462" multiplier="12"/>
+	<stage minlevel="463" maxlevel="473" multiplier="12"/>
+	<stage minlevel="474" maxlevel="484" multiplier="11"/>
+	<stage minlevel="485" maxlevel="495" multiplier="11"/>
+	<stage minlevel="496" maxlevel="506" multiplier="11"/>
+
+
+	<!-- 500 ATE 800 -->
+
+
+	<stage minlevel="507" maxlevel="517" multiplier="8"/>
+	<stage minlevel="518" maxlevel="528" multiplier="8"/>
+	<stage minlevel="529" maxlevel="539" multiplier="8"/>
+	<stage minlevel="540" maxlevel="550" multiplier="8"/>
+	<stage minlevel="551" maxlevel="561" multiplier="8"/>
+	<stage minlevel="562" maxlevel="572" multiplier="8"/>
+	<stage minlevel="573" maxlevel="583" multiplier="8"/>
+	<stage minlevel="584" maxlevel="594" multiplier="8"/>
+	<stage minlevel="595" maxlevel="605" multiplier="8"/>
+	<stage minlevel="606" maxlevel="616" multiplier="8"/>
+	<stage minlevel="617" maxlevel="627" multiplier="8"/>
+	<stage minlevel="628" maxlevel="638" multiplier="8"/>
+	<stage minlevel="639" maxlevel="649" multiplier="7"/>
+	<stage minlevel="650" maxlevel="660" multiplier="7"/>
+	<stage minlevel="661" maxlevel="671" multiplier="7"/>
+	<stage minlevel="672" maxlevel="682" multiplier="7"/>
+	<stage minlevel="683" maxlevel="693" multiplier="7"/>
+	<stage minlevel="694" maxlevel="704" multiplier="6"/>
+	<stage minlevel="705" maxlevel="715" multiplier="6"/>
+	<stage minlevel="716" maxlevel="726" multiplier="6"/>
+	<stage minlevel="727" maxlevel="737" multiplier="6"/>
+	<stage minlevel="738" maxlevel="748" multiplier="6"/>
+	<stage minlevel="749" maxlevel="759" multiplier="5"/>
+	<stage minlevel="760" maxlevel="770" multiplier="5"/>
+	<stage minlevel="771" maxlevel="781" multiplier="5"/>
+	<stage minlevel="782" maxlevel="792" multiplier="5"/>
+	<stage minlevel="793" maxlevel="803" multiplier="5"/>
+
+	<!-- 800 ATE 900 -->
+
+	<stage minlevel="804" maxlevel="814" multiplier="5"/>
+	<stage minlevel="815" maxlevel="825" multiplier="4"/>
+	<stage minlevel="826" maxlevel="836" multiplier="4"/>
+	<stage minlevel="837" maxlevel="847" multiplier="4"/>
+	<stage minlevel="848" maxlevel="858" multiplier="3"/>
+	<stage minlevel="859" maxlevel="869" multiplier="3"/>
+	<stage minlevel="870" maxlevel="880" multiplier="3"/>
+	<stage minlevel="881" maxlevel="891" multiplier="2"/>
+	<stage minlevel="892" maxlevel="902" multiplier="2"/>
+
+	<!-- 900 ATE 920 -->
+
+	<stage minlevel="903" maxlevel="904" multiplier="2"/>
+	<stage minlevel="905" maxlevel="906" multiplier="2"/>
+	<stage minlevel="907" maxlevel="908" multiplier="2"/>
+	<stage minlevel="909" maxlevel="910" multiplier="2"/>
+	<stage minlevel="911" maxlevel="912" multiplier="2"/>
+	<stage minlevel="913" maxlevel="914" multiplier="2"/>
+	<stage minlevel="915" maxlevel="916" multiplier="1"/>
+	<stage minlevel="917" maxlevel="918" multiplier="1"/>
+	<stage minlevel="919" maxlevel="920" multiplier="1"/>
+
+	<!-- 920 ATE 950 -->
+
+	<stage minlevel="921" maxlevel="924" multiplier="1"/>
+	<stage minlevel="925" maxlevel="928" multiplier="1"/>
+	<stage minlevel="929" maxlevel="932" multiplier="1"/>
+	<stage minlevel="933" maxlevel="936" multiplier="1"/>
+	<stage minlevel="937" maxlevel="940" multiplier="1"/>
+	<stage minlevel="941" maxlevel="944" multiplier="1"/>
+	<stage minlevel="945" maxlevel="948" multiplier="1"/>
+	<stage minlevel="949" maxlevel="952" multiplier="1"/>
+
+	<!-- 950 ATE 1200 -->
+
+	<stage minlevel="953" maxlevel="1200" multiplier="1"/>
+
+	<!-- 1200 ATE 9999 -->
+
+	<stage minlevel="1201" maxlevel="9999" multiplier="1"/>
+
+
+</stages>
