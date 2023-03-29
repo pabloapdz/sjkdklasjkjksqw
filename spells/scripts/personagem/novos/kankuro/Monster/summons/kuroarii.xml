@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kuroarii" nameDescription="kuroarii" race="blood" experience="0" speed="450" manacost="0">
+	<health now="5000000" max="5000000"/>
+	<look type="32" corpse="2815"/>
+	<targetchange interval="5000" chance="50"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1500" min="-4880" max="-8700"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-1000" max="-5000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="Venenodark" interval="3000" chance="100" radius="4" target="0" min="-4000" max="-5000">
+		</attack>
+		<attack name="Oukashou" interval="3500" chance="100" target="0" min="-5000" max="-6000">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="600" duration="4000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="20"/>
+		<element icePercent="10"/>
+		<element holyPercent="-15"/>
+		<element deathPercent="35"/>
+	</elements>
+	<immunities>
+		<immunity poison="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Kankuro come on!" yell="1"/>
+		<voice sentence="Kuroarii!!!"/>
+		<voice sentence="..."/>
+	</voices>
+</monster>

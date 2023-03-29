@@ -1,0 +1,8 @@
+Colocar Spells nos Kuchyose / Summons ao seu Gosto PABLITO!
+
+
+
+
+	<monster name="Karasuu" file="summons/karasuu.xml"/>
+	<monster name="Kuroarii" file="summons/kuroarii.xml"/>
+	<monster name="Sanshouoo" file="summons/sanshouoo.xml"/>

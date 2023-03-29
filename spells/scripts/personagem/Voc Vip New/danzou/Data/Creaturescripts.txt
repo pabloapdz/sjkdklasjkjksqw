@@ -1,0 +1,22 @@
+Entrar em data/creaturescripts/scripts e colar entro o arquivo daiizanagi
+
+\/ -- COLOCAR NA PARTE DOS REGISTER
+
+registerCreatureEvent(cid, "genjutsukai")
+
+Colocar isto no Login.lua
+
+--- Dai Izanagi ----
+registerCreatureEvent(cid, "daiizanagi")
+if getPlayerStorageValue(cid, 19333) == -1 then
+        setPlayerStorageValue(cid, 19333, 0) 
+ 
+end 
+
+
+
+
+\/ -- Colocar no Creaturescripts.xml
+
+<event type="statschange" name="kawarimi" event="script" value="kawarimi.lua"/>
+<event type="attack" name="genjutsukai" event="script" value="genjutsukai.lua"/>
